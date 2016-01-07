@@ -1,4 +1,4 @@
-# cosc-231
+# testing
 
 
 some stuff for the readme
